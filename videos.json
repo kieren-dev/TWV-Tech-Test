@@ -1,0 +1,21 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "Getting Started with Vue",
+      "slug": "getting-started-vue",
+      "description": "Learn the basics of Vue.js",
+      "video_length": "10m 30s",
+      "created_at": "2024-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Advanced Vue Components",
+      "slug": "advanced-vue-components",
+      "description": "Deep dive into Vue component architecture",
+      "video_length": "15m 45s",
+      "created_at": "2024-01-02"
+    }
+  ],
+  "total": 2
+} 
