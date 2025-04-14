@@ -6,7 +6,7 @@
       <div class="flex flex-row justify-center py-8">
         <button 
           @click="openModal()"
-          class="!bg-[#00FFAE] text-black px-4 py-2 rounded mb-4"
+          class="!bg-[#00FFAE] text-black px-4 py-2 rounded mb-4 ring-2 ring-[#00ffae]"
         >
           Add New Video
         </button>

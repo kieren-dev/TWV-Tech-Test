@@ -5,7 +5,7 @@
       @submit.prevent="handleSubmit"
     >
       <h2 class="text-2xl font-bold text-gray-800 mb-6">
-        Edit Video
+         Edit Your Video Details
       </h2>
       
       <div class="space-y-4">
@@ -85,7 +85,7 @@
         </button>
         <button 
           type="submit" 
-          class="px-4 py-2 !bg-blue-600 text-white rounded-md hover:bg-blue-700 transition"
+          class="px-4 py-2 !bg-blue-600 text-white rounded-md hover:bg-blue-700 transition ring-2 ring-blue-500 hover:ring-blue-600"
         >
           Save Changes
         </button>
